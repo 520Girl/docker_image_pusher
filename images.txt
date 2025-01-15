@@ -7,6 +7,7 @@ node:16.13.2-alpine3.15
 python:3.6-slim
 mongo:4.4.12
 ollama/ollama:latest
+hlohaus789/g4f:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 
